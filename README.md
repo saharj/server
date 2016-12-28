@@ -1,4 +1,6 @@
-Run it via `node`
+(Run it via `node`)
+
+Paste the Swagger below in your editor.
 
 ```
 ---
